@@ -4,18 +4,19 @@ Augmented reality drums based on computer vision and image processing concepts. 
 
 **Group Members**
 
-#Ankur Rai 
-#Sagar Arya
-#Shivam
-#Alok Paswan
-#Amit Kumar
-#Rahul Jaiswal
+# -Ankur Rai 
+# -Sagar Arya
+# -Shivam
+# -Alok Paswan
+# -Amit Kumar
+# -Rahul Jaiswal
 
 **Setup/Requirements**
 
-##We have wriiten this code in python using following libraries:
-#numpy
-#matplotlib
-#OpenCV
-#pygame
+## We have wriiten this code in python using following libraries:
+
+# -numpy
+# -matplotlib
+# -OpenCV
+# -pygame
 
