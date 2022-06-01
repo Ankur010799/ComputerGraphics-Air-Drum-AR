@@ -10,7 +10,7 @@ Augmented reality drums based on computer vision and image processing concepts. 
 -Amit Kumar
 -Rahul Jaiswal
 
-**Setup/Requirements
+**Setup/Requirements**
 
 We have wriiten this code in python using following libraries:
 -numpy
