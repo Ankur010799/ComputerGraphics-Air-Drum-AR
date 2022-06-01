@@ -2,7 +2,7 @@
 
 Augmented reality drums based on computer vision and image processing concepts. A fun application that allows users to play virtual drums anywhere by simply using colour tags. To detect blue colour, I used an HSV-based colour segmentation method.
 
-##**Group Members**
+## **Group Members**
 
 # -Ankur Rai 
 # -Sagar Arya
