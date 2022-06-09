@@ -18,7 +18,6 @@ Augmented reality drums based on computer vision and image processing concepts. 
 ## We have written this code in python using following libraries:
 
 # -numpy
-# -matplotlib
 # -OpenCV
 # -pygame
 
