@@ -20,4 +20,5 @@ Augmented reality drums based on computer vision and image processing concepts. 
 # -numpy
 # -OpenCV
 # -pygame
+# -time
 
